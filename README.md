@@ -17,4 +17,4 @@ Puedes hacer tu pago en la cuenta de **Ahorros Bancolombia N° 399 0002764** �
 
 Ten presente que para GirarNET tu eres importante, y ser honestos contigo es lo principal, así que te invitamos a efectuar el pago de los saldos pendientes lo más pronto posible para que evites este tipo de reportes y continues dándole ***_Un giro a la conectividad_***.
 
-*En caso de alguna duda, puedes escribirnos al 💬 Escríbenos al[WhatsApp](https://wa.me/+573152250620)*
+*En caso de alguna duda, puedes 💬 Escribirnos al[WhatsApp](https://wa.me/+573152250620)*
