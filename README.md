@@ -1,8 +1,11 @@
 # Comunicación Preaviso
 ---
 
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1kiBuc-MVf_GpRf583ZUj8jRf9zSwHIae" alt="drawing" width="500"/>
+  </p>
 
-## Preaviso de Reporte Negativo a Central de Riesgo
+<h1 align="center">Preaviso de Reporte Negativo a Central de Riesgo</h1>
 
 
 Estimado Usuario este mensaje es para ti.
