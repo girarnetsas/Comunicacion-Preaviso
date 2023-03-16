@@ -5,8 +5,8 @@
   </p>
   
 
-<h1 align="center">Preaviso</h1>
-<h1 align="center">Reporte Negativo a Central de Riesgo</h1>
+<h1 align="center">PREAVISO</h1>
+<h1 align="center">REPORTTE NEGATIVO A CENTRAL DE RIESGO</h1>
 
 
 Estimado Usuario este mensaje es para ti.
