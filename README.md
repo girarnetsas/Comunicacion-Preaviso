@@ -6,7 +6,7 @@
   
 
 <h1 align="center">PREAVISO</h1>
-<h1 align="center">REPORTTE NEGATIVO A CENTRAL DE RIESGO</h1>
+<h1 align="center">REPORTE NEGATIVO A CENTRALES DE RIESGO</h1>
 
 
 Estimado Usuario este mensaje es para ti.
