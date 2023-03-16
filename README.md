@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1kiBuc-MVf_GpRf583ZUj8jRf9zSwHIae" alt="drawing" width="500"/>
+    <img src="https://drive.google.com/uc?export=view&id=1KN19P9cSmbjnNDnb90iXbsTgNr7xKYYB" alt="drawing" width="500"/>
   </p>
   
 
